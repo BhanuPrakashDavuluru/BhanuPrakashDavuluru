@@ -1,6 +1,6 @@
-### Hello, I'm D. Bhanu Prakash 👋
+### Hello, I'm D Bhanu Prakash 👋
 
-I'm a B.Tech student from India specializing in Artificial Intelligence and Data Science. I am passionate about leveraging technology to solve real-world problems and am currently expanding my knowledge in the exciting world of **Blockchain software development**.
+ I am passionate about leveraging technology to solve real-world problems and am currently expanding my knowledge in the exciting world of **Blockchain software development**.
 
 My journey on GitHub is focused on building a strong portfolio of projects and collaborating with the developer community.
 
@@ -8,12 +8,9 @@ My journey on GitHub is focused on building a strong portfolio of projects and c
 - ⛓️ Blockchain Development
 - 💻 Solidity for smart contracts
 - 🌐 Web3.js and Ethers.js
-- 🧠 AI & Data Science concepts
-
+  
 **Connect with me:**
-- [www.linkedin.com/in/
-bhanuprakash13
-] 
+- [www.linkedin.com/in/bhanuprakash13] 
 - [bhanuprakashdavuluru.2003@gmail.com]
 
 Let's build the future together!
