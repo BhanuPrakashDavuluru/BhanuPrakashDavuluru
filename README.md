@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @BhanuPrakashDavuluru
-- 👀 I’m interested in .Machine Learning.
-- 🌱 I’m currently learning .C Language..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello, I'm D. Bhanu Prakash 👋
+
+I'm a B.Tech student from India specializing in Artificial Intelligence and Data Science. I am passionate about leveraging technology to solve real-world problems and am currently expanding my knowledge in the exciting world of **Blockchain software development**.
+
+My journey on GitHub is focused on building a strong portfolio of projects and collaborating with the developer community.
+
+**What I'm currently learning:**
+- ⛓️ Blockchain Development
+- 💻 Solidity for smart contracts
+- 🌐 Web3.js and Ethers.js
+- 🧠 AI & Data Science concepts
+
+**Connect with me:**
+- [www.linkedin.com/in/
+d-bhanu-prakash-73052a247
+] 
+- [bhanuprakashdavuluru.2003@gmail.com]
+
+Let's build the future together!
 
 <!---
 BhanuPrakashDavuluru/BhanuPrakashDavuluru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
