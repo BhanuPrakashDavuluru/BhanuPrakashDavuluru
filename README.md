@@ -12,7 +12,7 @@ My journey on GitHub is focused on building a strong portfolio of projects and c
 
 **Connect with me:**
 - [www.linkedin.com/in/
-d-bhanu-prakash-73052a247
+bhanuprakash13
 ] 
 - [bhanuprakashdavuluru.2003@gmail.com]
 
